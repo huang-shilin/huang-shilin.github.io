@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Open Positions"
 author_profile: true
 permalink: /open-positions/
