@@ -1,10 +1,7 @@
 ---
-permalink: /
 title: "Open Positions"
 author_profile: true
-redirect_from: 
-  - /open-positions/
-  - /open-positions.html
+permalink: /open-positions/
 ---
 
 I am actively looking for 1-2 PhD students. The minimum requirement is knowledge in quantum mechanics and/or quantum information. An ideal candidate would have the following skills as bonuses:
