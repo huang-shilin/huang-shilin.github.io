@@ -5,6 +5,8 @@ author_profile: true
 permalink: /open-positions/
 ---
 
+{% include base_path %}
+
 I am actively looking for 1-2 PhD students. The minimum requirement is knowledge in quantum mechanics and/or quantum information. An ideal candidate would have the following skills as bonuses:
   * Knowledge in quantum optics or other branches of theoretical physics
   * Knowledge in abstract algebra, topology, group representation theory, or similar areas
