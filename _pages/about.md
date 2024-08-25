@@ -13,7 +13,3 @@ I am an assistant professor at the Department of Physics, the Hong Kong Universi
 * Quantum information and computation
 * Quantum error correction and fault tolerance
 * Quantum control
-
-## Open Positions
-
-I am looking for PhD students with background in physics, mathematics or computer science. Please contact me via email if interested. 
