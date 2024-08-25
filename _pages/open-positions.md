@@ -13,4 +13,4 @@ Please contact me via email if you are interested. Before contacting me, you are
   * Barbara M. Terhal, Quantum error correction for quantum memories, Rev. Mod. Phys. 87, 307 (2015), [arXiv:1302.3428](https://arxiv.org/abs/1302.3428)
   * Dan Browne, [Lectures on topological codes and quantum computation](https://sites.google.com/site/danbrowneucl/teaching/lectures-on-topological-codes-and-quantum-computation)
   * Daniel Gottesman, [An introduction to quantum error correction and fault-tolerant quantum computation](https://arxiv.org/abs/0904.2557)
-  * Steven Girvin, [Introduction to quantum error correction and fault tolerance] (https://arxiv.org/pdf/2111.08894)
+  * Steven Girvin, [Introduction to quantum error correction and fault tolerance](https://arxiv.org/pdf/2111.08894)
